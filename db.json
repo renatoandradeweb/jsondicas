@@ -1,0 +1,64 @@
+{
+	"dicas" : [
+	{
+		"dica1": "Banda de Rock",
+		"dica2": "Cantor Britânico",
+		"dica3": "Fred Mercury",
+		"resposta": "Queen"
+	},
+	{
+		"dica1": "Som grave",
+		"dica2": "Incômodo e Barulhento",
+		"dica3": "Emitido pelas pessoas",
+		"resposta": "Ronco"
+	},
+	{
+		"dica1": "Cidade Brasileira",
+		"dica2": "Terra da Garoa",
+		"dica3": "Metrópole",
+		"resposta": "São Paulo"
+	},
+	{
+		"dica1": "É um Oceano",
+		"dica2": "Vem de Atlas, o deus grego",
+		"dica3": "Filho de netuno deus dos mares",
+		"resposta": "Atlântico"
+	},
+	{
+		"dica1": "É uma letra",
+		"dica2": "do nosso alfabeto",
+		"dica3": "que está na posição 16ª",
+		"resposta": "p"
+	},
+	{
+		"dica1": "Energia",
+		"dica2": "Elétrica",
+		"dica3": "Gerada pelo vento",
+		"resposta": "eólica"
+	},
+	{
+		"dica1": "Esporte",
+		"dica2": "Segundo mais praticado",
+		"dica3": "No nosso país",
+		"resposta": "Vôlei"
+	},
+	{
+		"dica1": "Cão",
+		"dica2": "que ladra",
+		"dica3": "não...",
+		"resposta": "morde"
+	},
+	{
+		"dica1": "É uma festa",
+		"dica2": "do Mês de Junho",
+		"dica3": "com muita pamonha e canjica",
+		"resposta": "Junina"
+	},
+	{
+		"dica1": "Capital",
+		"dica2": "Primeira Capital",
+		"dica3": "Do Brasil",
+		"resposta": "Salvador"
+	}
+]
+}
